@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试题库整理"
+  short_description: "从 AI Infra 面经中提取问题、语义去重、分类并生成题库"
+  default_prompt: "Use $interview-classification to 把 docs/interview 下的面经整理成去重分类题库。"
